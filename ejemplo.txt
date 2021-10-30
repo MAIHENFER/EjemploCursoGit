@@ -7,3 +7,6 @@ sexta linea
 septima linea
 octava linea
 cambio de rama a la rama develop primera vez
+
+git remote -v(permite ver si tenemos conexiones con repositorios remotos)
+git remote add origin nombre rama(nos permite enlazar un repositorio local con uno remoto)
